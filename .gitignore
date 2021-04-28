@@ -8,13 +8,15 @@
 *.code-workspace
 
 # User-specific files
-*Supplier.csproj
-*filetext.csproj
+*Supplier/Supplier.csproj
+*filetext/filetext.csproj
 *UTS_Pemrograman.sln
 
 # User-specific folders
-bin/
-obj/
+filetext/bin/
+filetext/obj/
+Supplier/bin/
+Supplier/obj/
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
