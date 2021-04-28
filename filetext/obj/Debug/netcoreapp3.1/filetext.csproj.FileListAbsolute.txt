@@ -1,0 +1,13 @@
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.csprojAssemblyReference.cache
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.AssemblyInfoInputs.cache
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.AssemblyInfo.cs
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.csproj.CoreCompileInputs.cache
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.exe
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.deps.json
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.runtimeconfig.json
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.runtimeconfig.dev.json
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.dll
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\bin\Debug\netcoreapp3.1\filetext.pdb
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.dll
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.pdb
+D:\AMIKOM\file file materi dan tugas\Semester 2\Soal Dan Jawaban\UTS\Jawaban\Pemrograman\project\UTS_Pemrograman\filetext\obj\Debug\netcoreapp3.1\filetext.genruntimeconfig.cache
